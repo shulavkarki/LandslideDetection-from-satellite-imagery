@@ -1,7 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -15,9 +15,9 @@
   <h3 align="center">Landslide Prediction From Satellite Imagery</h3>
 
   <p align="center">
-    A Read Me template for your projects!
+    Using Attention Boosted Distant Domain Transfer Learning
     <br />
-    <a href="https://github.com/roshanlam/ReadMeTemplate/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/"><strong>Docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery">View Demo</a>
@@ -118,17 +118,17 @@ Rabin Pandey
 
 Shulav Karki
 
-Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery)
+## 🔗 Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/ReadMeTemplate/network/members
+[forks-url]: https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/members
 [stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/ReadMeTemplate/stargazers
+[stars-url]:https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/stargazers
 [issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roshan-lamichhane
+[issues-url]: https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues
+<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/ -->
