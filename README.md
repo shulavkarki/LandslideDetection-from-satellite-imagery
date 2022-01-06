@@ -111,8 +111,11 @@ Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-s
 ## 👥👥 Team
 
 Akshey Sigdel
+
 Anuskha Gupta
+
 Rabin Pandey
+
 Shulav Karki
 
 Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery)
