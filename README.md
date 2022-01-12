@@ -94,6 +94,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery) for a list of proposed features (and known issues).
 
 
+<!-- PULLREQUESTS -->
+## 🔗 Pull Request
+
+This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues) or send in a [Pull Request](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/pulls).
 
 
 <!-- CONTACT -->
