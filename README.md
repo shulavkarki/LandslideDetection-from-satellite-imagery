@@ -33,23 +33,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+In this project, we carried out 3 experiments for the prediction of landslide in image.
+Experiments were:
+* Pre-trained Model used as fixed extractor and fine tuned with classifier. Different experiment was carried out with different model like ResNet18, Resnet50.
+* Autoencoder was used to extract the representaion vector space and trained with out 1D convolution layers. [.....Ongoing]
+* Attention was used along with autoencoder and classic CNN. [.......Ongoing]
 
-There are many great README templates available on GitHub, however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
 * [Python](https://python.com)
 * [Pytorch](https://pytorch.com)
+* [Tensorboard](https://www.tensorflow.org/tensorboard)
 <!-- * [Laravel](https://laravel.com) -->
 
 
@@ -57,8 +52,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 <!-- ### Prerequisites
 
@@ -89,11 +82,10 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
- -->
+## 📤 Application
+
 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
@@ -101,6 +93,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery) for a list of proposed features (and known issues).
 
 
+<!-- PULLREQUESTS -->
+## 🔗 Pull Request
+
+This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues) or send in a [Pull Request](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/pulls).
 
 
 <!-- CONTACT -->
