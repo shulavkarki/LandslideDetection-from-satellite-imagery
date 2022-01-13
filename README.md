@@ -15,7 +15,7 @@
   <h3 align="center">Landslide Prediction From Satellite Imagery</h3>
 
   <p align="center">
-    Using Attention Boosted Distant Domain Transfer Learning
+    Using Attention and Autoencoder boosted CNN.
     <br />
     <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/"><strong>Docs »</strong></a>
     <br />
