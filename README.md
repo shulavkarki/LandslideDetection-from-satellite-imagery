@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shulavkarki/Landslide-Detection-from-satellite-imagery/">
+  <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery">
     <img src="./landslide.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,16 +17,16 @@
   <p align="center">
     Using Attention and Autoencoder boosted CNN.
     <br />
-    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/"><strong>Docs »</strong></a>
+    <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery"><strong>Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery">View Demo</a>
+    <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery">View Demo</a>
     ·
-    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues">Report Bug</a>
+    <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues">Request Feature</a>
+    <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/issues">Request Feature</a>
     ·
-    <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/pulls">Send a Pull Request</a>
+    <a href="https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -90,19 +90,19 @@ const API_KEY = 'ENTER YOUR API';
 <!-- ROADMAP -->
 ## 🚧 Roadmap
 
-See the [open issues](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery) for a list of proposed features (and known issues).
 
 
 <!-- PULLREQUESTS -->
 ## 🔗 Pull Request
 
-This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues) or send in a [Pull Request](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/pulls).
+This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/issues) or send in a [Pull Request](https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/pulls).
 
 
 <!-- CONTACT -->
 ## 📫 Contact
 
-Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery)
+Project Link: [Github](https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery)
 
 ## 👥👥 Team
 
@@ -114,17 +114,17 @@ Rabin Pandey
 
 Shulav Karki
 
-## 🔗 Project Link: [Github](https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery)
+## 🔗 Project Link: [Github](https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/members
+[forks-url]: https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/members
 [stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]:https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/stargazers
+[stars-url]:https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/stargazers
 [issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/issues
+[issues-url]: https://github.com/shulavkarki/LandslideDetection-from-satellite-imagery/issues
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/ -->
