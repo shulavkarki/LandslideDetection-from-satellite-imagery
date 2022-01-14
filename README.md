@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shulavkarki/LandslidePrediction-from-satellite-imagery/">
+  <a href="https://github.com/shulavkarki/Landslide-Detection-from-satellite-imagery/">
     <img src="./landslide.png" alt="Logo" width="80" height="80">
   </a>
 
