@@ -12,7 +12,7 @@
     <img src="./landslide.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Landslide Prediction From Satellite Imagery</h3>
+  <h3 align="center">Landslide Detection From Satellite Imagery</h3>
 
   <p align="center">
     Using Attention and Autoencoder boosted CNN.
