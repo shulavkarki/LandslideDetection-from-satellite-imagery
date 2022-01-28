@@ -82,7 +82,8 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+## 📂 Dataset
+Bijiloue satellite imagery dataset is used for this project.
 
 ## 📤 Application
 
