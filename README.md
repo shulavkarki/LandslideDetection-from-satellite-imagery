@@ -1,9 +1,3 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -38,6 +32,8 @@ Experiments were:
 * Pre-trained Model used as fixed extractor and fine tuned with classifier. Different experiment was carried out with different model like ResNet18, Resnet50.
 * Autoencoder was used to extract the representaion vector space and trained with out 1D convolution layers. [.....Ongoing]
 * Attention was used along with autoencoder and classic CNN. [.......Ongoing]
+
+At last we intend to develop a web application to deploy our trained models.
 
 
 ### Built With
@@ -77,10 +73,6 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ```
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 ## 📂 Dataset
 [Bijie](http://gpcv.whu.edu.cn/data/) satellite imagery dataset is used for this project.
